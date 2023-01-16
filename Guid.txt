@@ -1,0 +1,10 @@
+Create Project 
+1. vue create nama-project
+2. faster installation? No
+3. Please pick a preset: Default ([Vue 3] babel, eslint)
+4. cd nama-project
+5. code .
+
+
+npm run serve
+: Untuk menjalankan server
